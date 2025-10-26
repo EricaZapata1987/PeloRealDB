@@ -9,5 +9,3 @@ Incluye:
 💡 Es un proyecto de práctica pensado para demostrar cómo aplico lo aprendido en **MySQL Workbench** y **Power BI Desktop**.
 
 ---
-
-## 🗂️ Estructura del repo (recomendada)
