@@ -9,14 +9,21 @@ Incluye:
 💡 Es un proyecto de práctica pensado para demostrar cómo aplico lo aprendido en **MySQL Workbench** y **Power BI Desktop**.
 
 ---
-Cómo abrir y ver el dashboard
+## Cómo abrir y ver el dashboard
 
- Plantilla Proyecto Pelo Real.pbit (recomendado)
+### 🟣 Opción A — Plantilla `.pbit` (recomendada)
+**Archivo:** `Proyecto Pelo Real.pbit`
 
-Descargá Proyecto Pelo Real.pbit desde este repo.
+#### Requisitos previos
+- **Power BI Desktop (Windows)**
+- Acceso a tu instancia de **MySQL** (o la fuente que uses)
 
-Abrilo con Power BI Desktop (Windows).
+#### Pasos
+1. **Descargá** `Proyecto Pelo Real.pbit` desde este repositorio.  
+2. **Abrilo** con **Power BI Desktop (Windows)**.  
+3. Cuando te pida **credenciales/servidor**, apuntá a tu instancia de **MySQL**.  
+4. Hacé clic en **Actualizar** para cargar los datos.  
+5. **Listo:** navegá por las **páginas**, **segmentadores** y **filtros** del reporte.
 
-Cuando se soliciten credenciales/servidor, apuntá a tu instancia de MySQL (o la que uses) y Actualizá.
-
-Listo: podés navegar páginas y filtros. (La plantilla trae el modelo y los pasos de Power Query; necesitás una base con los datos para refrescar).
+> 💡 **Nota:** La plantilla incluye el **modelo** y los pasos de **Power Query**.  
+> Necesitás una base con datos para poder **refrescar**; si no, el modelo abre igual pero no actualiza.
